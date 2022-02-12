@@ -1,0 +1,132 @@
+body {
+	text-align: left;
+	font-family: Caslon;
+	color: #444444;
+	font-size: 22px;
+	background-image: url(Forest_Background_Final.jpg);
+	background-size: cover;
+}
+
+body.Gallery {
+	background-image: url(Forest_Background_Final.jpg);
+	background-size: auto;
+	backround-repeat: no repeat;
+}
+
+
+div {
+	margin-bottom: 20px;
+	margin-left: 100px;
+	margin-right: auto;
+	width: 550px;
+	border: 6px #0d1405 solid;
+	padding-left: 30px;
+	padding-right: 10px;
+	padding-bottom: 20px;
+	padding-top: 16px;
+	border-radius: 5px;
+	background-color: #c2e0a3;
+}
+
+div.one {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 800px;
+}
+
+
+
+
+h3 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-align: center;
+	
+}
+
+
+
+
+h1 {
+	color: #B2BABB;
+	margin-top: -2px;
+	font-size: 50px;
+	margin-bottom: 7px;
+	
+}
+h2 {
+	color: #B2BABB;
+	margin-top: -9;
+	margin-bottom: -9;
+	
+}
+
+hr {
+	border: 1px solid #B2BABB;
+	width: 550px;
+	margin-left: 0px;
+}
+
+a:link, a:visited {
+	text-decoration: none;
+	color: #7fc77d;
+}
+
+a:hover{
+	text-decoration: underline;
+	
+}
+
+a:active{
+	color: black;
+}
+
+
+img{
+	width: 600px;
+	border: 3px #c2e0a3 solid;
+	margin-left: auto;
+	border-radius: 15px;
+	margin-top: 20px;
+	margin-bottom: 5px;
+}
+
+img.Title {
+	width: 520px;
+	margin-top: 5px;
+}
+img.Acp {
+	width: 780px;
+}
+
+div.Gallery {
+	border: ;
+	padding: 20px;
+	width: 610px;
+	border: 8px #000000 solid;
+}
+
+
+
+
+
+td, th {
+	padding: 10px;
+	border-bottom: 2px solid black;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+th {
+	font-family: Verdana;
+	font-size: 30px;
+}
+
+td {
+	font-size: 20px;
+	
+}
+table {
+	width: 100%;
+
+}
